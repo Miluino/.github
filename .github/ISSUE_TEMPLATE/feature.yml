@@ -1,0 +1,33 @@
+name: Новая функция
+description: Предложите изменение продукта, библиотеки, документации или процесса.
+title: "Функция: "
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Цель
+      description: Какую проблему решает изменение и какой результат нужен?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Что нужно сделать
+      description: Опишите основные шаги и границы задачи.
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Критерии готовности
+      description: Перечислите признаки завершённой работы.
+      placeholder: |
+        - ...
+        - ...
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Дополнительная информация
+      description: Ссылки, схемы, примеры, ограничения или зависимости.

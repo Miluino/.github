@@ -1,0 +1,30 @@
+name: Исследование или гипотеза
+description: Зафиксируйте вопрос, эксперимент и ожидаемый результат исследования.
+title: "Исследование: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Вопрос или гипотеза
+      description: Что требуется проверить?
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: План исследования
+      description: Какие варианты, измерения или эксперименты нужно выполнить?
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Ожидаемый результат
+      description: В каком виде должен быть зафиксирован вывод?
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Ограничения и материалы
+      description: Ссылки, схемы, оборудование, сроки и известные риски.
