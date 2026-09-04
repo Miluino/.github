@@ -1,14 +1,17 @@
-# Общие правила Miluino
+# Шаблоны и настройки GitHub Miluino
 
-Этот репозиторий содержит правила и шаблоны, используемые во всех репозиториях
+Этот репозиторий содержит общие шаблоны и настройки GitHub для репозиториев
 организации [Miluino](https://github.com/Miluino).
 
 ## Документы
 
 - [Правила участия](CONTRIBUTING.md)
-- [Стиль кода](CODE_STYLE.md)
-- [Git workflow](docs/git-workflow.md)
-- [Работа с Issues и Project](docs/github-issues-projects.md)
+- [Стиль кода](https://github.com/Miluino/dev-guidelines/blob/main/code-style.md)
+- [Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md)
+- [Работа с Issues и Projects](https://github.com/Miluino/dev-guidelines/blob/main/github-issues-projects.md)
+
+Инструкции по разработке ведутся в репозитории
+[dev-guidelines](https://github.com/Miluino/dev-guidelines). Их изменения выполняются только администратором.
 
 ## Шаблоны GitHub
 
@@ -17,6 +20,10 @@
 шаблона того же типа.
 
 ## Область действия
+
+Этот репозиторий содержит только общие шаблоны и настройки GitHub. Правила
+разработки, инструкции по Git, стилю кода и работе с Issues и Projects хранятся
+в `dev-guidelines`.
 
 Этот репозиторий не заменяет локальную документацию конкретного продукта.
 Правила, зависящие от аппаратной платформы, языка, сборки или поставщика,

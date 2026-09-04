@@ -7,8 +7,8 @@ custom-width: 85
 
 ## Перед началом работы
 
-1. Прочитайте [стиль кода](CODE_STYLE.md).
-2. Ознакомьтесь с [Git workflow](docs/git-workflow.md).
+1. Прочитайте [стиль кода](https://github.com/Miluino/dev-guidelines/blob/main/code-style.md).
+2. Ознакомьтесь с [Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md).
 3. Для нетривиальной задачи создайте или выберите GitHub Issue.
 4. Проверьте критерии готовности задачи и назначьте исполнителя.
 
@@ -35,9 +35,9 @@ Closes #<номер-задачи>
 
 Убедитесь, что выполнены критерии готовности, разрешены комментарии ревью и
 изменения не смешивают независимые задачи. Подробные правила описаны в
-[Git workflow](docs/git-workflow.md).
+[Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md).
 
 ## Планирование
 
 Порядок оформления и движения задач описан в документе
-[Работа с GitHub Issues и GitHub Projects](docs/github-issues-projects.md).
+[Работа с GitHub Issues и GitHub Projects](https://github.com/Miluino/dev-guidelines/blob/main/github-issues-projects.md).
