@@ -6,12 +6,11 @@
 ## Документы
 
 - [Правила участия](CONTRIBUTING.md)
-- [Стиль кода](https://github.com/Miluino/dev-guidelines/blob/main/code-style.md)
-- [Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md)
-- [Работа с Issues и Projects](https://github.com/Miluino/dev-guidelines/blob/main/github-issues-projects.md)
+- [Стиль кода](https://github.com/Miluino/dev-guidelines/blob/master/code-style.md)
+- [Git workflow](https://github.com/Miluino/dev-guidelines/blob/master/git-workflow.md)
+- [Работа с Issues и Projects](https://github.com/Miluino/dev-guidelines/blob/master/github-issues-projects.md)
 
-Инструкции по разработке ведутся в репозитории
-[dev-guidelines](https://github.com/Miluino/dev-guidelines). Их изменения выполняются только администратором.
+Инструкции по разработке ведутся в репозитории [dev-guidelines](https://github.com/Miluino/dev-guidelines). Их изменения выполняются только администратором.
 
 ## Шаблоны GitHub
 
