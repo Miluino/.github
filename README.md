@@ -5,6 +5,7 @@
 
 ## Документы
 
+- [Заготовка профиля организации](profile/README.md)
 - [Правила участия](CONTRIBUTING.md)
 - [Стиль кода](https://github.com/Miluino/dev-guidelines/blob/master/code-style.md)
 - [Git workflow](https://github.com/Miluino/dev-guidelines/blob/master/git-workflow.md)

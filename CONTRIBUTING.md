@@ -7,8 +7,8 @@ custom-width: 85
 
 ## Перед началом работы
 
-1. Прочитайте [стиль кода](https://github.com/Miluino/dev-guidelines/blob/main/code-style.md).
-2. Ознакомьтесь с [Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md).
+1. Прочитайте [стиль кода](https://github.com/Miluino/dev-guidelines/blob/master/code-style.md).
+2. Ознакомьтесь с [Git workflow](https://github.com/Miluino/dev-guidelines/blob/master/git-workflow.md).
 3. Создайте Issue для своей задачи и назначьте себя исполнителем, если Issue ещё не создан тимлидом.
 
 ## Изменения в репозиториях
@@ -32,8 +32,8 @@ task/<номер-задачи>
 Closes #<номер-задачи>
 ```
 
-Убедитесь, что выполнены критерии готовности и учтены комментарии ревью. Подробные правила описаны в [Git workflow](https://github.com/Miluino/dev-guidelines/blob/main/git-workflow.md).
+Убедитесь, что выполнены критерии готовности и учтены комментарии ревью. Подробные правила описаны в [Git workflow](https://github.com/Miluino/dev-guidelines/blob/master/git-workflow.md).
 
 ## Планирование
 
-Порядок оформления и движения задач описан в документе [Работа с GitHub Issues и GitHub Projects](https://github.com/Miluino/dev-guidelines/blob/main/github-issues-projects.md).
+Порядок оформления и движения задач описан в документе [Работа с GitHub Issues и GitHub Projects](https://github.com/Miluino/dev-guidelines/blob/master/github-issues-projects.md).
